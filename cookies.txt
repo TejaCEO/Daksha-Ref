@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.authorize.net	TRUE	/	FALSE	1999999999	__cfruid	2b9909bfd21a5cbcdbaae34d7b24fee97e3d5951-1675621854
+

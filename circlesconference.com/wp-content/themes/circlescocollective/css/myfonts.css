@@ -1,0 +1,52 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3438580, 2017-08-17T06:08:17-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: UniversLT-ThinUltraCondensed by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/39-thin-ultra-condensed/
+ * 
+ * Webfont: UniversLT-ExtraBlack by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/85-extra-black/
+ * 
+ * Webfont: UniversLT-ExtraBlackObl by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/85-extra-black-oblique/
+ * 
+ * Webfont: UniversLT-LightUltraCondensed by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/49-light-ultra-condensed/
+ * 
+ * Webfont: UniversLT-UltraCondensed by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/59-ultra-condensed/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3438580
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1990, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/3477f4");
+
+  
+@font-face {font-family: 'UniversLT-ThinUltraCondensed';src: url('webfonts/3477F4_0_0.eot');src: url('webfonts/3477F4_0_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/3477F4_0_0.woff2') format('woff2'),url('webfonts/3477F4_0_0.woff') format('woff'),url('webfonts/3477F4_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'UniversLT-ExtraBlack';src: url('webfonts/3477F4_1_0.eot');src: url('webfonts/3477F4_1_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/3477F4_1_0.woff2') format('woff2'),url('webfonts/3477F4_1_0.woff') format('woff'),url('webfonts/3477F4_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'UniversLT-ExtraBlackObl';src: url('webfonts/3477F4_2_0.eot');src: url('webfonts/3477F4_2_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/3477F4_2_0.woff2') format('woff2'),url('webfonts/3477F4_2_0.woff') format('woff'),url('webfonts/3477F4_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'UniversLT-LightUltraCondensed';src: url('webfonts/3477F4_3_0.eot');src: url('webfonts/3477F4_3_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/3477F4_3_0.woff2') format('woff2'),url('webfonts/3477F4_3_0.woff') format('woff'),url('webfonts/3477F4_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'UniversLT-UltraCondensed';src: url('webfonts/3477F4_4_0.eot');src: url('webfonts/3477F4_4_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/3477F4_4_0.woff2') format('woff2'),url('webfonts/3477F4_4_0.woff') format('woff'),url('webfonts/3477F4_4_0.ttf') format('truetype');}
+ 
