@@ -1,0 +1,22 @@
+/*
+ Theme Name:   CollegeFest
+ Theme URI:    http://demo.themeum.com/wordpress/eventum
+ Description:  CollegeFest
+ Author:       Themeum
+ Author URI:   http://themeum.com/
+ Template:     eventum
+ Version:      1.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  eventum-child
+*/
+
+
+@import url("../eventum/style.css");
+
+/* body {
+	margin-top: 0!important;
+}
+
+#masthead {
+	background: #29333f;
+} */
